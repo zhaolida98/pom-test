@@ -22,8 +22,6 @@
       <dependency>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-api</artifactId>
-        <version>1.7.36</version>
-        <classifier>client</classifier?
-        <type>javadoc</type>
+        <version>LATEST</version>
       </dependency>
 </project>
